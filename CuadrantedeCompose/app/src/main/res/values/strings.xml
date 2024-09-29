@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cuadrante de Compose</string>
+    <string name="cabecera1">Text composable</string>
+    <string name="cuerpo1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="cabecera2">Row composable</string>
+    <string name="cuerpo2">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="cabecera3">Image composable</string>
+    <string name="cuerpo3">Creates a composable that lays out and draws a given Painter class object</string>
+    <string name="cabecera4">Column composable</string>
+    <string name="cuerpo4">A layout composable that places its children in a vertical sequence.</string>
+</resources>
