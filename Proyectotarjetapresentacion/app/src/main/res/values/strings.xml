@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto tarjeta presentacion</string>
+    <string name="nombre">Carlos Gómez</string>
+    <string name="descripcion">Desarrollador de aplicaciones multiplataforma</string>
+    <string name="telefono">(+34) 622 555 499</string>
+    <string name="email">carlosdam2905@gmail.com</string>
+    <string name="contacto">\@carlosdam2905</string>
+</resources>
